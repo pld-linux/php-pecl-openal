@@ -9,7 +9,7 @@ License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	d6dd7f9d47997928e6d897cb711317ba
-URL:		http://pear.php.net/package/%{_pearname}/
+URL:		http://pear.php.net/package/openal/
 BuildRequires:	OpenAL-devel
 BuildRequires:	libtool
 BuildRequires:	php-devel
