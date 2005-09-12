@@ -26,8 +26,8 @@ This extension provides platform independent sound bindings.
 In PECL status of this package is: %{_status}.
 
 %description -l pl
-To rozszerzenie dostarcza niezale¿nych od platformy dowi±zañ dotycz±cych
-d¼wiêku.
+To rozszerzenie dostarcza niezale¿nych od platformy dowi±zañ
+dotycz±cych d¼wiêku.
 
 To rozszerzenie ma w PECL status: %{_status}.
 
