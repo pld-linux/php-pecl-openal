@@ -11,7 +11,6 @@ Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	d6dd7f9d47997928e6d897cb711317ba
 URL:		http://pecl.php.net/package/openal/
 BuildRequires:	OpenAL-devel
-BuildRequires:	libtool
 BuildRequires:	php-devel
 Requires:	php-common
 Obsoletes:	php-pear-%{_modname}
