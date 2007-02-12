@@ -1,7 +1,7 @@
 %define		_modname	openal
 %define		_status		beta
 Summary:	%{_modname} - bindings to OpenAL
-Summary(pl):	%{_modname} - dowi±zania do OpenAL
+Summary(pl.UTF-8):   %{_modname} - dowiÄ…zania do OpenAL
 Name:		php-pecl-%{_modname}
 Version:	0.1
 Release:	1
@@ -23,9 +23,9 @@ This extension provides platform independent sound bindings.
 
 In PECL status of this package is: %{_status}.
 
-%description -l pl
-To rozszerzenie dostarcza niezale¿nych od platformy dowi±zañ
-dotycz±cych d¼wiêku.
+%description -l pl.UTF-8
+To rozszerzenie dostarcza niezaleÅ¼nych od platformy dowiÄ…zaÅ„
+dotyczÄ…cych dÅºwiÄ™ku.
 
 To rozszerzenie ma w PECL status: %{_status}.
 
