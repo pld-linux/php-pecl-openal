@@ -1,7 +1,7 @@
 %define		_modname	openal
 %define		_status		beta
 Summary:	%{_modname} - bindings to OpenAL
-Summary(pl.UTF-8):   %{_modname} - dowiązania do OpenAL
+Summary(pl.UTF-8):	%{_modname} - dowiązania do OpenAL
 Name:		php-pecl-%{_modname}
 Version:	0.1
 Release:	1
